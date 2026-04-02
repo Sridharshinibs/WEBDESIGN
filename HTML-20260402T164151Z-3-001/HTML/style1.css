@@ -1,0 +1,54 @@
+body{
+    background-image:url('pink.jpg');
+    width:100%;
+    background-size:cover;
+    }
+input .focus{
+            background-color:rgb(255,183,197);
+            }
+.sub{
+    width:500px;
+    margin:250px auto;
+    background-color:rgba(0,0,0,0.5);
+    color:white;
+    display:block;
+    padding:10px 20px 30px;
+    font-size:24px;
+    border-radius:10px;
+    }
+
+.sub h2{
+       text-align:center;
+       color:white;
+       }
+.sub .text{
+           display:block;
+           }
+.sub .tex{
+         display:inline
+         }
+.lab input{
+          width:100%;
+          font-size:24px;
+          box-shadow:2px;
+          border-radius:2px;
+          padding:5px 10px;
+          box-sizing:border-box;
+          margin:5px 10px 0px;
+ 
+          }
+.cla{
+    text-align:center;
+    }
+button{
+       background-color:#F7BCAC;
+       font-size:30px;
+       color:white;
+       margin-top:20px;
+       padding:15px 25px;
+       border-radius:8px;
+
+       }
+.radio input{
+            accent-color:#00BFF;
+            }

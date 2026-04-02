@@ -1,0 +1,106 @@
+body{
+    font-family:Georgia;
+    background-color:rgb(225,228,225);
+    }
+.sub{
+    background-color:rgb(255,183,197);
+    font-size:24px;
+    color:brown;
+    }
+h1{
+  text-align:center;
+  background-color:rgb(252,142,172);
+  font-style:oblique;
+  border-width:3px;
+  border-radius:1px;
+  border-style:line;
+  margin-top:10px;
+  }
+.term{
+     background-color:rgb(253,108,158);
+     width:1400px;
+     height:40px;
+     margin-top:10px;
+     border-style:line;
+     border-radius:10px;
+     border-width:2px;
+     }
+.tem{
+    display:inline;
+    color:rgb(0,0,0);
+    font-size:24px;
+    margin:32px;
+   }
+.image{
+      background-color:rgb(255,182,193);
+      margin-top:10px;
+      }
+li{
+  display:inline;
+  }
+#col{
+    background-color:rgb(250,218,221);
+    margin-top:10px;
+    border-style:dotted;
+    border-radius:10px;
+    border-height:15px;
+    border-width:2px;
+    border-color:rgb(0,0,0);
+    }
+#order{
+      font-size:18px;
+      text-decoration:none;
+      text-align:right;
+      }
+#con{
+    font-size:28px;
+    }
+a{
+  text-decoration:none;
+  font-size:28px;
+  }
+a:visited{
+        color:red;
+        }
+a:link{
+      color:black;
+      }
+a:hover{
+       color:green;
+       }
+
+
+
+.bg{
+    width:1400px;
+    height:330px;
+    padding:0px;
+    box-shadow:0px 0px 10px 2px grey;
+    border:10px Misty rose;
+    background-image:url('make1.jpg');
+    background-size:cover;
+   }
+.about{
+      background-color:rgb(255,183,197);
+      width:1400px;
+      height:190px;
+      margin-top:10px;
+      border-style:line;
+      border-radius:10px;
+      border-width:2px;
+      font-size:24px;
+      }
+.branch{
+       font-family:Times New Roman;
+       background-color:rgb(255,228,225);
+       width:1400px;
+       height:90px;
+       margin-top:10px;
+       border-style:dashed;
+       border-width:2px;
+       font-size:22px;
+       text-indent:50px;
+       border-radius:5px;
+       }
+       
+ 

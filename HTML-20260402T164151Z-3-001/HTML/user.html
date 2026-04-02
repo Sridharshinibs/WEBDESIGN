@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>DHARSHINE.in</title>
+ <link rel="stylesheet" href="style3.css">
+ <script defer src="valid.js"></script>
+</head>
+<body>
+  <form action="/" id="form" method="get" onsubmit="return validateForm()">
+  <div class="sub">
+  <h2>NEW USER</h2>
+   <div class="input-group">
+     <label for="username">Username</label>
+     <input name="username" id="username" type="text">
+     <div id="nameerror" class="error"></div>
+    </div>
+   <div class="input-group">
+     <label for="password">Password</label>
+     <input name="password" id="password" type="text">
+     <div id="passworderror" class="error"></div>
+    </div>
+   <div class="input-group">
+     <label for="cpassword">Confirm password</label>
+     <input name="cpassword" id="cpassword" type="text">
+     <div id="cpassworderror" class="error"></div>
+   </div>
+   <div class="input-group">
+     <label for="email">Email</label>
+     <input name="email" id="email" type="email">
+     <div id="emailerror" class="error"></div>
+   </div>
+ <button type="submit" id="submit">SIGN UP</button>
+ </div>
+</form>
+</body>
+</html>
